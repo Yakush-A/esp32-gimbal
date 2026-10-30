@@ -38,21 +38,21 @@
 #appendix(
   "обязательное",
   "Структурная схема устройства"
-)
+) <structural-scheme>
 
 #appendix(
   "обязательное",
   "Функциональная электрическая схема блока управления"
-)
+) <functional-scheme>
 
 #appendix(
   "обязательное",
   "Принципиальная электрическая схема устройства"
-)
+) <principal-electrical-scheme>
 
 #appendix(
   "обязательное",
   "Листинг исходного кода"
-)
+) <source-code>
 #include "document/source-code.typ"
 
