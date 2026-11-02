@@ -1,4 +1,4 @@
-#import "@preview/typo-stp:0.1.1": explanation
+#import "@preview/typo-stp:0.2.0": explanation
 
 = Обоснование выбора узлов, элементов функциональной схемы устройства
 
@@ -49,7 +49,7 @@ ESP32-WROOM-32. Микроконтроллер должен решать сра�
 тангаж, а рыскание не определяется и не стабилизируется.
 
 #figure(
-  image("images/mpu6050.png", width: 40%),
+  image("images/mpu6050.png", width: 30%),
   caption: [Модуль GY-521 на основе MPU6050],
 ) <fig-mpu>
 
